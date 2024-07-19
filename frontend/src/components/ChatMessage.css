@@ -1,0 +1,14 @@
+.chat-message {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+  }
+  
+  .chat-message.admin {
+    background-color: #d1e7dd;
+  }
+  
+  .chat-message.user {
+    background-color: #f8d7da;
+  }
+  
